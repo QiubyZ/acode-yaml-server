@@ -13,6 +13,6 @@ This a Experiment Plugin Yaml Language Server on Acode.
 ## Setup Language Server
   Install Yaml Language Server with npm
   - ```bash 
-    npm install yaml-language-server
+    pip install yaml-lsp
     ```
   
